@@ -3,3 +3,5 @@ Grunwald approximation of spectrally positive jump Lévy processes in an interva
 - Dirichlet (killing), 
 - Neumann (Stochastic reflection) and 
 - fast-forwarding.
+
+Set parameters and run in `pseudosim.m`.
